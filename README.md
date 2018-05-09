@@ -1,2 +1,1 @@
-# shop1
-# shop1
+# BestStore Laravel Shop Project
